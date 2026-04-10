@@ -5,4 +5,4 @@ This repository serves only as a "photo gallery".
 
 Please See License.txt file.
 
-Licensed under Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0)
