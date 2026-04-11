@@ -1,9 +1,10 @@
 # restlessos_treble_wallpapers_stuff
-This repository houses all the artwork, wallpapers, and similar content I created for the RestlessOS Treble GSI project, maintained by the developer @cawilliamson. 
+This repository contains all the artwork, wallpapers, and related content created by @Ziednaga for the RestlessOS Treble GSI project, maintained by @cawilliamson.
 
-This repository serves only as a "photo gallery".
+It serves purely as a "photo gallery" for these visual assets.
 
+All artwork, wallpapers, and visual content created by @Ziednaga are licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license.
 
-All elements on this repository are Licensed under Creative Commons Attribution-NonCommercial BY 4.0 International (CC BY-NC 4.0).
+Shared authorship: This content is distributed under shared authorship with the RestlessOS maintainer, @cawilliamson, as part of the RestlessOS Treble GSI project.
 
-Please See License.txt file for more details.
+For further details, please refer to the License.txt file.
