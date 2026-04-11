@@ -1,5 +1,5 @@
 # restlessos_treble_wallpapers_stuff
-This repository contains all the artwork, wallpapers, and related content created by @Ziednaga for the RestlessOS Treble GSI project, maintained by @cawilliamson.
+This repository contains all the artwork, wallpapers, and related content created by @Ziednaga or other users for the RestlessOS Treble GSI project, maintained by @cawilliamson.
 
 It serves purely as a "photo gallery" for these visual assets.
 
