@@ -1,7 +1,7 @@
 # restlessos_treble_wallpapers_stuff
 ![Banner of Innuere Amethyst](Branding/GitElements/BannerInnuereAmethyst.png)
 
-This repository contains all the official artwork, wallpapers, bootanimation and related content created by @Ziednaga or other users for the RestlessOS Treble GSI project, maintained by @cawilliamson.
+This repository contains all the original and official artwork, wallpapers, bootanimation and related content created by @Ziednaga or other users for the RestlessOS Treble GSI project, maintained by @cawilliamson.
 
 This repository serves purely as a "photo gallery" for these visual assets and the new releases. You can download individual wallpapers by browsing the repository folders and clicking the file you want, then using the Download raw file button on GitHub.
 
@@ -10,3 +10,7 @@ All artwork, wallpapers, and visual content created by @Ziednaga or other users 
 Shared authorship: This content is distributed under shared authorship with the RestlessOS maintainer, @cawilliamson, as part of the RestlessOS Treble GSI project.
 
 For further details, please refer to the License.txt file.
+
+
+Please take a look at the main repository of RestlessOS!:
+https://github.com/cawilliamson/treble_restlessos
