@@ -35,7 +35,7 @@ You may freely use and adapt
 these assets solely for content 
 directly related to RestlessOS 
 (such as wallpapers, bootanimations, themes, or community material). 
-Forks and derivative projects 
+Unrelated projects, forks and derivative projects 
 must use their own branding. 
 Any other use requires explicit 
 written permission from @Ziednaga 
