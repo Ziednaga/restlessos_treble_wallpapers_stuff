@@ -104,7 +104,7 @@ WallpaperName-ColorName-Dark/Light-WTL.png     < Dark/Light With Text + Logo
 
 -- Wait for review > feedback or merge will follow.
 >>>>>>>>>>>>>>>>>>
-What Will Be Rejected?
+### What Will Be Rejected?
 
 --Wrong resolution.
 
@@ -117,4 +117,4 @@ What Will Be Rejected?
 -- Submissions that don't include at least the Base variant.
 
 >>>>>>>>>>>>>>>>>>
-Show us your creativity with wallpapers names!
+## Show us your creativity with awesome wallpapers!
