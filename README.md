@@ -19,6 +19,9 @@ Shared authorship: This content is distributed under shared authorship with the 
 For further details, please refer to the License.txt file.
 
 ```
+--In order to protect the identity 
+of the RestlessOS GSI Project;
+
 Branding exception: 
 
 The RestlessOS name, 
