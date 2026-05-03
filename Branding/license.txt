@@ -2,10 +2,10 @@ All Rights Reserved
 
 The RestlessOS name, logo, and all visual identity elements
 contained in this directory [Branding and subfolders] are the exclusive property of
-@Ziednaga, @cawilliamson and the RestlessOS GSI project.
+@Ziednaga, @cawilliamson and The RestlessOS GSI project.
 
 You may freely use and adapt these assets solely for the purpose
-of creating content directly related to the RestlessOS GSI project withoit askking to permissions —
+of creating content directly related to the RestlessOS GSI project without asking permissions —
 such as wallpapers, bootanimations, themes, tutorials, or community material —
 as long as that content is clearly associated with RestlessOS
 and not with any derivative or unrelated project.
