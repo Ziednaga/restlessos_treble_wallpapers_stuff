@@ -16,17 +16,19 @@ for non-commercial purposes as long as they give appropriate credit.
 
 >>>>>>>>>>>>>>>>
 ### Required Format:
+```
 Property    Value
 Resolution: 1440 × 3200 px (mandatory)
 Formats accepted:  PNG (preferred), JPG
 Color profile: sRGB
+```
 >>>>>>>>>>>>>>>>
 ### No other resolutions will be accepted.
 >>>>>>>>>>>>>>>>
 ### Folder Structure
 -- Your submission goes inside `Wallpapers/Community/`. 
 -- Follow the exact same conventions used in the main wallpapers.
-
+```
 Wallpapers/
   Community/
     YourWallpaperName-Wallpaper/
@@ -41,6 +43,7 @@ Wallpapers/
       YourWallpaperName-WTL/              < With Text + Logo variant (optional)
           YourWallpaperName-Silver-WTL.png
           ...
+```
 -- The Base variant (no logo, no text) is the only required one. 
 WL and WTL are optional.
 >>>>>>>>>>>>>>>>
