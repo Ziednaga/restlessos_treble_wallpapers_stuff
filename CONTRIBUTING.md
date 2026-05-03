@@ -11,12 +11,10 @@ All wallpapers must be original work.
 -- Do not submit AI-generated images, edits of other people's work, or copyrighted material.
 
 -- By submitting a Pull Request, you agree that your artwork 
-will be distributed under the Creative Commons 
-
-Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license, 
+will be distributed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license, 
 consistent with the rest of this repository. 
 
--- This means anyone can share and adapt your work 
+-- This means anyone can share and adapt your work. 
 
 for non-commercial purposes as long as they give appropriate credit.
 
@@ -97,17 +95,25 @@ WallpaperName-ColorName-Dark/Light-WTL.png     < Dark/Light With Text + Logo
 >>>>>>>>>>>>>>>>>>
 ### How to Submit?
 
--- Fork this repository
--- Create your folder under Wallpapers/Community/ following the structure above
--- Open a Pull Request with a short description of your wallpaper
+-- Fork this repository.
+
+-- Create your folder under 
+`Wallpapers/Community/` following the structure above.
+
+-- Open a Pull Request with a short description of your wallpaper.
+
 -- Wait for review > feedback or merge will follow.
 >>>>>>>>>>>>>>>>>>
 What Will Be Rejected?
 
---Wrong resolution
+--Wrong resolution.
+
 -- AI-generated or edited (non-original) artwork.
--- Color names outside the defined list
+
+-- Color names outside the defined list.
+
 -- Folders or files with spaces or inconsistent naming.
+
 -- Submissions that don't include at least the Base variant.
 
 >>>>>>>>>>>>>>>>>>
