@@ -18,31 +18,15 @@ Shared authorship: This content is distributed under shared authorship with the 
 
 For further details, please refer to the License.txt file.
 
-```
---In order to protect the identity 
-of the RestlessOS GSI Project;
-
-Branding exception: 
-
-The RestlessOS name, 
-logo, and all visual identity 
-assets located in the Branding/ 
-directory are All Rights 
-Reserved by @Ziednaga, 
-@cawilliamson and The RestlessOS GSI Project. 
-
-You may freely use and adapt 
-these assets solely for content 
-directly related to RestlessOS 
-(such as wallpapers, bootanimations, themes, or community material). 
-Unrelated projects, forks and derivative projects 
-must use their own branding. 
-Any other use requires explicit 
-written permission from @Ziednaga 
-and @cawilliamson. 
-
-See Branding/License.txt for details.
-```
+> **In order to protect the identity of the RestlessOS GSI Project:**
+>
+> **Branding Exception**
+>
+> The RestlessOS name, logo, and all visual identity assets located in the `Branding/` directory are All Rights Reserved by @Ziednaga, @cawilliamson and The RestlessOS GSI Project.
+>
+> You may freely use and adapt these assets solely for content directly related to RestlessOS (such as wallpapers, bootanimations, themes, or community material). Unrelated projects, forks and derivative projects must use their own branding. Any other use requires explicit written permission from @Ziednaga or @cawilliamson.
+>
+> See [Branding/License.txt](Branding/License.txt) for details.
 
 ## Main Repository
 Please take a look at the main repository of RestlessOS:
