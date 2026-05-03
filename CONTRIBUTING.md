@@ -1,17 +1,23 @@
 ### Contributing to RestlessOS Wallpapers
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
--- Thank you for wanting to contribute artwork to RestlessOS. 
--- This document explains exactly how to submit your work 
+-- Thank you for wanting to contribute artwork to RestlessOS.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+-- This document explains exactly how to submit your work, 
 so it integrates cleanly with the rest of the repository.
-
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 ## Before You Start:
 All wallpapers must be original work. 
+
 -- Do not submit AI-generated images, edits of other people's work, or copyrighted material.
+
 -- By submitting a Pull Request, you agree that your artwork 
 will be distributed under the Creative Commons 
+
 Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license, 
 consistent with the rest of this repository. 
+
 -- This means anyone can share and adapt your work 
+
 for non-commercial purposes as long as they give appropriate credit.
 
 >>>>>>>>>>>>>>>>
@@ -27,6 +33,7 @@ Color profile: sRGB
 >>>>>>>>>>>>>>>>
 ### Folder Structure
 -- Your submission goes inside `Wallpapers/Community/`. 
+
 -- Follow the exact same conventions used in the main wallpapers.
 ```
 Wallpapers/
@@ -49,10 +56,11 @@ WL and WTL are optional.
 >>>>>>>>>>>>>>>>
 ### Color Naming Convention
 If your wallpaper has color variants, use only the following names. 
+
 --Minimum: 1 variant. Maximum: 12 variants.
 
 ### Color reference:
-
+```
 ---Silver: Grey
 ---Titanium: Extremely pale or greyish blue
 ---Aqua: Vivid turquoise or cyan
@@ -64,9 +72,10 @@ If your wallpaper has color variants, use only the following names.
 ---Neon: Vivid blue or similar electric tone
 ---Honey: Orange
 ---Charcoal: Black
-
+```
 -- You may also include neutral variants 
 (no specific color, e.g. a base colorless version). 
+
 -- Name them descriptively > for example:
 YourWallpaperName.png or YourWallpaperName-Dark.png.
 >>>>>>>>>>>>>>>>>>
@@ -74,16 +83,17 @@ YourWallpaperName.png or YourWallpaperName-Dark.png.
 >>>>>>>>>>>>>>>>>>
 ### File Naming
 Follow this pattern exactly:
-
+```
 WallpaperName-ColorName.png
 WallpaperName-ColorName-WL.png      < With Logo
 WallpaperName-ColorName-WTL.png     < With Text + Logo
-
+```
 --- Your wallpapers has Light/Dark variations?:
-
+```
 WallpaperName-ColorName-Dark/Light.png
 WallpaperName-ColorName-Dark/Light-WL.png      < Dark/Light With Logo
 WallpaperName-ColorName-Dark/Light-WTL.png     < Dark/Light With Text + Logo
+```
 >>>>>>>>>>>>>>>>>>
 ### How to Submit?
 
