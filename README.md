@@ -16,8 +16,11 @@ With an example of AUTHOR.TXT file.
 All artwork, wallpapers, and visual content created by @Ziednaga or other users who wish to host their creations in this repository are licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license.
 Shared authorship: This content is distributed under shared authorship with the RestlessOS maintainer, @cawilliamson, as part of the RestlessOS Treble GSI project.
 
+For further details, please refer to the License.txt file.
+
 ```
 Branding exception: 
+
 The RestlessOS name, 
 logo, and all visual identity 
 assets located in the Branding/ 
@@ -37,8 +40,6 @@ and @cawilliamson.
 
 See Branding/License.txt for details.
 ```
-
-For further details, please refer to the License.txt file.
 
 ## Main Repository
 Please take a look at the main repository of RestlessOS:
