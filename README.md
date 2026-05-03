@@ -22,8 +22,8 @@ The RestlessOS name,
 logo, and all visual identity 
 assets located in the Branding/ 
 directory are All Rights 
-Reserved by @Ziednaga 
-and @cawilliamson. 
+Reserved by @Ziednaga, 
+@cawilliamson and The RestlessOS GSI Project. 
 
 You may freely use and adapt 
 these assets solely for content 
