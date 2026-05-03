@@ -17,9 +17,25 @@ All artwork, wallpapers, and visual content created by @Ziednaga or other users 
 Shared authorship: This content is distributed under shared authorship with the RestlessOS maintainer, @cawilliamson, as part of the RestlessOS Treble GSI project.
 
 ```
-Branding exception: The RestlessOS name, logo, and all visual identity assets located in the Branding/ directory are All Rights Reserved by @Ziednaga and @cawilliamson. 
+Branding exception: 
+The RestlessOS name, 
+logo, and all visual identity 
+assets located in the Branding/ 
+directory are All Rights 
+Reserved by @Ziednaga 
+and @cawilliamson. 
 
-You may freely use and adapt these assets solely for content directly related to RestlessOS (such as wallpapers, bootanimations, themes, or community material). Forks and derivative projects must use their own branding. Any other use requires explicit written permission from @Ziednaga and @cawilliamson. See Branding/License.txt for details.
+You may freely use and adapt 
+these assets solely for content 
+directly related to RestlessOS 
+(such as wallpapers, bootanimations, themes, or community material). 
+Forks and derivative projects 
+must use their own branding. 
+Any other use requires explicit 
+written permission from @Ziednaga 
+and @cawilliamson. 
+
+See Branding/License.txt for details.
 ```
 
 For further details, please refer to the License.txt file.
