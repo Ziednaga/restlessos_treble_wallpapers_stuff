@@ -14,24 +14,23 @@ All wallpapers must be original work.
 will be distributed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license, 
 consistent with the rest of this repository. 
 
--- This means anyone can share and adapt your work. 
-
+-- This means anyone can share and adapt your work.
 for non-commercial purposes as long as they give appropriate credit.
 
 >>>>>>>>>>>>>>>>
 ### Required Format:
 ```
 Property    Value
-Resolution: 1440 × 3200 px (mandatory)
-Formats accepted:  PNG (preferred), JPG
+Resolution: 1440 × 3200 px (or higher)
+Formats accepted:  WEBP (Digital artwork), PNG or JPEG (Photography)
 Color profile: sRGB
 ```
 >>>>>>>>>>>>>>>>
-### No other resolutions will be accepted.
+>>>>>>>>>>>>>>>>
+### Required at least 1440x3200 as minimum. Submissions below this resolution will be rejected.
 >>>>>>>>>>>>>>>>
 ### Folder Structure
--- Your submission goes inside `Wallpapers/Community/`. 
-
+-- Your submission goes inside `Wallpapers/Community/` and contains an example of `Author.txt`.
 -- Follow the exact same conventions used in the main wallpapers.
 ```
 Wallpapers/
@@ -39,18 +38,21 @@ Wallpapers/
     YourWallpaperName-Wallpaper/
     AUTHORS.txt                           < Declare your atributtion
       YourWallpaperName/                  < Base variant (required)
-          YourWallpaperName-Silver.png
-          YourWallpaperName-Aqua.png
+          YourWallpaperName-Silver.webp
+          YourWallpaperName-Aqua.webp
           ...
-      YourWallpaperName-WL/               < With Logo variant (optional)
-          YourWallpaperName-Silver-WL.png
+      YourWallpaperName-WL/               < With Restless Logo variant (optional)
+          YourWallpaperName-Silver-WL.webp
           ...
-      YourWallpaperName-WTL/              < With Text + Logo variant (optional)
-          YourWallpaperName-Silver-WTL.png
+      YourWallpaperName-WTL/              < With RestlessOS Text + Logo variant (optional)
+          YourWallpaperName-Silver-WTL.webp
+          ...
+       YourWallpaperName-ABC.../
           ...
 ```
 -- The Base variant (no logo, no text) is the only required one. 
-WL and WTL are optional.
+
+-- WL, WTL, WNP and WNTL variants are optional. Use them when your wallpaper uses RestlessOS Logo and RestlessOS Text Logo or needs to describe it doesn't have particles.
 >>>>>>>>>>>>>>>>
 ### Color Naming Convention
 If your wallpaper has color variants, use only the following names. 
@@ -70,51 +72,99 @@ If your wallpaper has color variants, use only the following names.
 ---Neon: Vivid blue or similar electric tone
 ---Honey: Orange
 ---Charcoal: Black
+---
 ```
--- You may also include neutral variants 
-(no specific color, e.g. a base colorless version). 
-
--- Name them descriptively > for example:
-YourWallpaperName.png or YourWallpaperName-Dark.png.
 >>>>>>>>>>>>>>>>>>
-### Do not invent new color names outside this list.
+### Style & Aesthetic variants:
+---Vintage / Retro / Neo / Minimal / Bold / Thin / Soft / Muted / Mono / Grainy / Blur / Ambient / Atmospheric / Dreamy / Clean / Flat / Sharp / Noise / Faded / Glow / Ethereal / Glass / Frosted / Translucent / Cyber / Industrial / Organic / Nord /
+>>>>>>>>>>>>>>>>>>
+### Time-of-day & Ambient variants:
+---Morning / Afternoon / Evening / Night / Dawn / Dusk
+>>>>>>>>>>>>>>>>>>
+### Seasonal variants:
+---Spring / Summer / Autumn / Winter
+>>>>>>>>>>>>>>>>>>
+### Technical variants:
+---Dark / Light / AMOLED /
+>>>>>>>>>>>>>>>>>>
+### Sequential variants (for photo sets without hierarchy or variants with slight differences (silver-A; Silver-B...):
+---A / B / C  or  I / II / III /
+>>>>>>>>>>>>>>>>>>
+-- You may combine descriptors when it makes sense:
+```
+WallpaperName-Copper-Vintage.webp
+WallpaperName-Morning-WL.webp
+WallpaperName-Mono-AMOLED.webp
+
+WallpaperName-Amethyst-WL.webp
+WallpaperName-Spring-WNP.webp
+WallpaperName-Copper-WNTL.webp
+
+WallpaperName-Neo-WL-WNTL.webp
+WallpaperName-Dark-WNP-WL.webp
+WallpaperName-Dusk-WNT-WNP.webp
+```
+-- You may also include neutral variants
+(no specific descriptor, e.g. a base colorless version).
+Name them descriptively > for example:
+```
+YourWallpaperName.webp or YourWallpaperName-Dark.webp.
+```
+-- If none of the above fits your work, you may propose a new descriptor (open an issue).
+in your Pull Request. It will be reviewed before merging.
+
+### Do not invent new variant names without proposing them first.
+### Avoid vague or arbitrary names like `WallpaperName-1.webp` or `WallpaperName-Final.webp`
 >>>>>>>>>>>>>>>>>>
 ### File Naming
 Follow this pattern exactly:
 ```
-WallpaperName-ColorName.png
-WallpaperName-ColorName-WL.png      < With Logo
-WallpaperName-ColorName-WTL.png     < With Text + Logo
+WallpaperName-Descriptor.webp
+WallpaperName-Descriptor-WL.webp      < With RestlessOS Logo
+WallpaperName-Descriptor-WTL.webp     < With RestlessOS Text + Logo
+WallpaperName-Descriptor-WNTL.webp     < Without Text Logo
+WallpaperName-Descriptor-WNP.webp     < Without Particles
 ```
---- Your wallpapers has Light/Dark variations?:
+--- Does your wallpaper have Light/Dark variations?
 ```
-WallpaperName-ColorName-Dark/Light.png
-WallpaperName-ColorName-Dark/Light-WL.png      < Dark/Light With Logo
-WallpaperName-ColorName-Dark/Light-WTL.png     < Dark/Light With Text + Logo
+WallpaperName-Descriptor-Dark/Light.png
+WallpaperName-Descriptor-Dark/Light-WL.png      < Dark/Light With Logo
+WallpaperName-Descriptor-Dark/Light-WTL.png     < Dark/Light With Text + Logo
+WallpaperName-Descriptor-Dark/Light-WNTL.png     < Dark/Light Without Text 
+WallpaperName-Descriptor-Dark/Light-WNP.png     < Dark/Light Without Particles
 ```
+>>>>>>>>>>>>>>>>>>
+### Compression Guidelines
+
+-- Avoid excessive compression artifacts.
+
+-- WEBP submissions should preserve visual clarity using (if is possible) `webp-lossless`.
+
+-- Do not upscale low-resolution images artificially.
 >>>>>>>>>>>>>>>>>>
 ### How to Submit?
 
 -- Fork this repository.
 
--- Create your folder under 
+-- Create your folder under
 `Wallpapers/Community/` following the structure above.
 
 -- Open a Pull Request with a short description of your wallpaper.
 
 -- Wait for review > feedback or merge will follow.
+
 >>>>>>>>>>>>>>>>>>
 ### What Will Be Rejected?
 
---Wrong resolution.
+-- Wrong resolution (below 1440 × 3200 px).
 
--- AI-generated or edited (non-original) artwork.
+-- AI-generated artwork or unauthorized edits of third-party work.
 
--- Color names outside the defined list.
+-- Variant names outside the defined lists or not proposed in the Pull Request.
 
 -- Folders or files with spaces or inconsistent naming.
 
 -- Submissions that don't include at least the Base variant.
 
 >>>>>>>>>>>>>>>>>>
-## Show us your creativity with awesome wallpapers!
+## Create something unique, awesome and keep the repository clean.
