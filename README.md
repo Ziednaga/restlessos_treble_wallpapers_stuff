@@ -1,5 +1,5 @@
 # restlessos_treble_wallpapers_stuff
-![Banner of Innuere Amethyst](GitElements/BannerInnuereAmethyst.png)
+![Banner of Innuere Amethyst](https://raw.githubusercontent.com/Ziednaga/treble_restlessos_branding_stuff/main/GitElements/BannerInnuereAmethyst.png)
 
 This repository contains all the original and official artwork, wallpapers, bootanimations and related content created by @Ziednaga or other users for the RestlessOS Treble GSI project, maintained by @cawilliamson.
 This repository serves purely as a "photo gallery" for these visual assets and new releases. You can download individual wallpapers by browsing the repository folders and clicking the file you want, then using the Download raw file button on GitHub.
@@ -8,7 +8,7 @@ This repository serves purely as a "photo gallery" for these visual assets and n
 Community contributions are welcome. If you want to submit your own wallpapers, please read the CONTRIBUTING.md before opening a Pull Request.
 Community wallpapers live under:
 ```
-Wallpapers/Community/
+/Wallpapers/Community/
 ```
 With an example of AUTHOR.TXT file.
 
@@ -18,16 +18,10 @@ Shared authorship: This content is distributed under shared authorship with the 
 
 For further details, please refer to the License.txt file.
 
-> **In order to protect the identity of the RestlessOS GSI Project:**
->
-> **Branding Exception**
->
-> The RestlessOS name, logo, and all visual identity assets located in the `Branding/` directory are All Rights Reserved by @Ziednaga, @cawilliamson and The RestlessOS GSI Project.
->
-> You may freely use and adapt these assets solely for content directly related to RestlessOS (such as wallpapers, bootanimations, themes, or community material). Unrelated projects, forks and derivative projects must use their own branding. Any other use requires explicit written permission from @Ziednaga or @cawilliamson.
->
-> See [Branding/License.txt](Branding/License.txt) for details.
+> **RestlessOS branding assets** (name, logo, and visual identity) live in a separate repository:
+> https://github.com/Ziednaga/treble_restlessos_branding_stuff
 
 ## Main Repository
 Please take a look at the main repository of RestlessOS:
-https://github.com/cawilliamson/treble_restlessos
+
+> https://github.com/cawilliamson/treble_restlessos
