@@ -2,7 +2,7 @@
 ![Banner of Made In Eden A-side](https://github.com/Ziednaga/treble_restlessos_branding_stuff/blob/main/GitElements/RestlessOS-MadeInEden-B.webp)
 ![Banner of Made In Eden B-side](https://github.com/Ziednaga/treble_restlessos_branding_stuff/blob/main/GitElements/RestlessOS-MadeInEden-B-Bside.webp)
 
-This repository contains all the original and official artwork, wallpapers, bootanimations and related content created by @Ziednaga or other users for the RestlessOS Treble GSI project, maintained by @cawilliamson.
+This repository contains all the original and official artwork, wallpapers and related content created by @Ziednaga or other users for the RestlessOS Treble GSI project, maintained by @cawilliamson.
 This repository serves purely as a "photo gallery" for these visual assets and new releases. You can download individual wallpapers by browsing the repository folders and clicking the file you want, then using the Download raw file button on GitHub.
 
 ## Contributing
